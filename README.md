@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img  src="./src/icon.png" alt="logo" width="140"  height="auto" />
+  <img  src="./webpack-demo/src/icon.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Jose Alejandro Delphin Puente</b></h3>
